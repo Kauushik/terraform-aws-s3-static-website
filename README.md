@@ -41,6 +41,20 @@ The entire infrastructure, including the S3 bucket, website configuration, publi
 
 Project screenshots are available in the `screenshots` folder.
 
+## Project Screenshots
+
+### AWS S3 Bucket
+
+![AWS S3 Bucket](screenshots/AWS%20S3.png)
+
+### Website Working
+
+![Website Working](screenshots/S3%20Website.png)
+
+### Terraform Output
+
+![Terraform Output](screenshots/Terraform%20Output.png)
+
 ## Outcome
 
 Successfully deployed a static website on AWS S3 using Terraform and verified public access through the website endpoint.
